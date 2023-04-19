@@ -1,0 +1,41 @@
+第 1 个命令：git status
+
+在命令行窗口的光标处，输入git status命令，查看仓库的状态：
+
+第 2 个命令：git init
+
+在命令行窗口的光标处，输入git init命令，初始化 Git 仓库：
+
+第 3 个命令：git add
+
+在命令行窗口的光标处，输入git add hit.txt命令，将hit.txt文件添加到 Git 仓库：
+
+第 4 个命令：git commit
+
+在命令行窗口的光标处，输入git commit -m "text commit"命令，将hit.txt文件提交到 Git 仓库：
+
+第 5 个命令：git log
+
+在命令行窗口的光标处，输入git log"命令，打印 Git 仓库提交日志：
+
+第 6 个命令：git branch
+
+在命令行窗口的光标处，输入git branch命令，查看 Git 仓库的分支情况：
+
+第 7 个命令：git checkout
+
+在命令行窗口的光标处，输入git checkout a命令，切换到a分支：
+
+第 8 个命令：git merge
+
+切换到master分支，然后输入git merge a命令，将a分支合并到master分支：
+
+第 9 个命令：git branch -d & git branch -D
+
+在命令行窗口的光标处，输入git branch -d a命令，删除a分支：
+
+第 10 个命令：git tag
+
+在命令行窗口的光标处，输入git tag v1.0命令，为当前分支添加标签：
+
+
